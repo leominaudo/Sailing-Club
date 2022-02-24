@@ -25,3 +25,5 @@ storico di tutti i pagamenti effettuati dai membri riguardanti le tasse d’iscr
 gare, di rimessaggio e di associazione, con l’eventuale possibilità di poter mandare
 delle notifiche ai membri per il pagamento della quota di rimessaggio o della quota di
 associazione.
+
+Realizzato da: Leonardo Minaudo e Michele Cairone
